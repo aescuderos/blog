@@ -21,8 +21,8 @@
 title: Monos con teclados contemplando el infinito
 description: >- # this means to ignore newlines until "baseurl:"
   Ante todo mono venido a más y desarrollador web. También soy un frikazo, como un hombre del renacimiento, pero sin toda esa pomposidad. Una vez intenté meterme a un circo.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "/blog" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "https://aescuderos.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  aescuderos
 
 # Build settings
